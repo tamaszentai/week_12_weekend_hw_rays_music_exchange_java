@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc5d7bb0-41cb-4e34-af29-fcf9b3d00adc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4wXWZmv9jrtux7edsrGeWiVPN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="JUnit.ShopTest.hasProfit">
+    <configuration name="ShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.canAddItemToStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="canAddItemToStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.canRemoveItemFromStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="canRemoveItemFromStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.hasProfit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="hasProfit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.hasStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="hasStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShopTest.hasProfit" />
+        <item itemvalue="JUnit.ShopTest.canRemoveItemFromStock" />
+        <item itemvalue="JUnit.ShopTest.canAddItemToStock" />
+        <item itemvalue="JUnit.ShopTest" />
+        <item itemvalue="JUnit.ShopTest.hasStock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc5d7bb0-41cb-4e34-af29-fcf9b3d00adc" name="Default Changelist" comment="" />
+      <created>1586008213146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586008213146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1240" height="634" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586021553495">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="100" y="123" width="1240" height="634" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.834@0.23.1440.834" timestamp="1586021553495" />
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1586021172716">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1586021172716" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1586027453305">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1586027453305" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1586027453305">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1586027453305" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1586027453305">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1586027453305" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1586027453305">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1586027453305" />
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom" timestamp="1586027098599">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1586027098599" />
+    <state width="1398" height="268" key="GridCell.Tab.1.center" timestamp="1586027098599">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1586027098599" />
+    <state width="1398" height="268" key="GridCell.Tab.1.left" timestamp="1586027098599">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1586027098599" />
+    <state width="1398" height="268" key="GridCell.Tab.1.right" timestamp="1586027098599">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1586027098599" />
+  </component>
+</project>

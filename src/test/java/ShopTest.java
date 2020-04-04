@@ -15,7 +15,7 @@ public class ShopTest {
     @Before
     public void before(){
         this.shop = new Shop();
-        this.guitartosell = new GuitarToSell("mahagony", "black", "string",
+        this.guitartosell = new GuitarToSell("mahagony", "black", InstrumentType.STRING,
                 8, "electric-guitar", 1000, 1200);
         this.guitarpick = new GuitarPick("guitar-pick", 0.30, 1);
         this.drumstick = new DrumStick("drumstick", 3, 5);

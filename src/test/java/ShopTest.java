@@ -1,13 +1,11 @@
 import org.junit.Before;
 import org.junit.Test;
 
-import java.util.ArrayList;
-
 import static org.junit.Assert.assertEquals;
 
 public class ShopTest {
 
-    private ArrayList<ISell> stock;
+
     private Shop shop;
     private ISell guitartosell;
     private ISell guitarpick;
@@ -16,7 +14,6 @@ public class ShopTest {
 
     @Before
     public void before(){
-        this.stock = new ArrayList<ISell>();
         this.shop = new Shop();
         this.guitartosell = new GuitarToSell("mahagony", "black", "string",
                 8, "electric-guitar", 1000, 1200);
@@ -45,6 +42,6 @@ public class ShopTest {
         shop.addItemToStock(guitartosell);
         shop.addItemToStock(guitarpick);
         shop.addItemToStock(drumstick);
-        assertEquals(202.7, shop.totalProfit(stock), 0.1);
+        assertEquals(202.7, shop.totalProfit(), 0.1);
     }
 }

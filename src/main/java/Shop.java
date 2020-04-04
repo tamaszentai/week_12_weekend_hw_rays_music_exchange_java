@@ -25,10 +25,10 @@ public class Shop {
     }
 
 
-    public double totalProfit(ArrayList<ISell> stock){
+    public double totalProfit(){
         double profit = 0;
-        for (ISell item : stock) {
-             profit =+ item.calculateMarkup();
+        for (ISell item : this.stock) {
+             profit += item.calculateMarkup();
         }
        return profit;
     }
